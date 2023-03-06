@@ -1,3 +1,12 @@
 nombre = input("Introduce tu nombre: ")
 
-print("Hola mundo " + nombre)
+'''
+    Comentar de múltiples líneas
+'''
+
+#Comentario de una linea
+def hola(nombre_recibido) :
+    print("Hola mundo " + nombre_recibido)
+    return 1
+
+hola(nombre)
