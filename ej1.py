@@ -1,7 +1,7 @@
 nombre = input("Introduce tu nombre: ")
 
 '''
-    Comentar de múltiples líneas
+    Comentar de yo que sé
 '''
 
 #Comentario de una linea
